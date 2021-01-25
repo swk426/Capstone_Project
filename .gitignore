@@ -1,0 +1,8 @@
+#data folder - too big for github
+data/
+
+#model folder - too big for github
+models/
+
+#Not needed file
+Makefile
